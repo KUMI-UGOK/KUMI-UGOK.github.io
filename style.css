@@ -200,15 +200,22 @@ p {
 }
 
 h3 {
+    font-family: 'Sawarabi Gothic', sans-serif;
     font-size: 20px;
-
 }
 
-span {
+h3:hover{
+    text-decoration-line: underline;
+    text-decoration-color: #ea5550;
+}
+
+span{
     color: #ea5550;
 }
 
-
+.makeurl a:hover{
+    color: #ea5550;
+}
 
 
 
